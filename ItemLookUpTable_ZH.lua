@@ -23458,7 +23458,7 @@ function TamrielTradeCentre:LoadItemLookUpTable()
         ["bog raider's girdle"]={[300]=23456,},
         ["pattern: leyawiin tapestry, floral"]={[173]=23457,},
         ["praxis: leyawiin potted plant, aspen sapling"]={[174]=23458,},
-        ["旅伴的胸鎧甲]={[300]=23459,},
+        ["旅伴的胸鎧甲"]={[300]=23459,},
         ["pattern: leyawiin carpet, misty octad"]={[173]=23460,},
         ["fang-furl contraband boots"]={[300]=23461,},
         ["blueprint: leyawiin table, formal grand"]={[177]=23462,},
