@@ -2,7 +2,7 @@ function TamrielTradeCentre:LoadItemLookUpTable()
     self.ItemLookUpTable={
         ["物理傷害 次效藥劑"]={[450]=1,},
         ["鍛莫制 耐力增強 胸鎧"]={[300]=2,},
---FlyFly-2022
+
         ["姜玫茶"]={[21]=4,},
 
         ["slight glyph of increase physical harm"]={[1250]=6,},
